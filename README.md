@@ -1,12 +1,15 @@
 # 👨🏻‍💻 Anthony Gabriel
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,50:292020,100:7D1515&height=190&section=header&text=Anthony%20Gabriel&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=60&descSize=16" width="100%"/>
+  <img src="./chrollo-banner.png" width="100%" alt="Chrollo Lucilfer - Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓-Engenharia%20de%20Software-7D1515?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML%20•%20CSS%20•%20Power%20BI-222222?style=for-the-badge"/>
+  <i>"It's not about winning or losing. It's about fighting for what you believe in."</i>
+</p>
+
+<p align="center">
+  <b>🎓 Estudante de Engenharia de Software | HTML • CSS • Power BI</b>
 </p>
 
 Olá! Sou **Anthony Gabriel**, estudante de Engenharia de Software na Universidade Cidade de São Paulo (Unicid), interessado em tecnologia, desenvolvimento web e análise de dados.
@@ -86,16 +89,9 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
 </p>
 
 <p align="center">
-  <i>"Sometimes, silence speaks louder than words."</i>
+  <i>Always learning. Always evolving.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7D1515,50:292020,100:101010&height=110&section=footer" width="100%"/>
-</p>
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anthonygabrielguerreiro-sketch&show_icons=true&theme=transparent&title_color=9B2226&icon_color=9B2226&text_color=cccccc&border_color=7D1515"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonygabrielguerreiro-sketch&layout=compact&theme=transparent&title_color=9B2226&text_color=cccccc&border_color=7D1515"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7D1515,50:292020,100:101010&height=100&section=footer" width="100%"/>
 </p>
