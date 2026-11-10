@@ -1,7 +1,11 @@
-# 👨🏻‍💻 Anthony Gabriel
+<!-- ANTHONY GABRIEL | PROFILE README -->
+
+<h1 align="center">
+  🕷️ 𝕬𝖓𝖙𝖍𝖔𝖓𝖞 𝕲𝖆𝖇𝖗𝖎𝖊𝖑 🕷️
+</h1>
 
 <p align="center">
-  <img src="./chrollo-banner.png.png" width="100%" alt="Chrollo Lucilfer"/>
+  <img src="./chrollo-banner.png.png" width="100%" alt="Banner inspirado em Chrollo Lucilfer"/>
 </p>
 
 <p align="center">
@@ -9,7 +13,7 @@
 </p>
 
 <p align="center">
-  <b>🎓 Estudante de Engenharia de Software | HTML • CSS • Power BI</b>
+  🎓 Estudante de Engenharia de Software | HTML • CSS • Power BI
 </p>
 
 ---
@@ -89,6 +93,16 @@ Projeto acadêmico de uma plataforma online de serviços de guincho, envolvendo 
 
 ---
 
+### 🎧 Beyond the Code
+
+<p>
+  <img src="https://img.shields.io/badge/Music_Lover-8B0000?style=for-the-badge&logo=spotify&logoColor=white" alt="Music Lover"/>
+  <img src="https://img.shields.io/badge/Anime_Enthusiast-181717?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Anime Enthusiast"/>
+  <img src="https://img.shields.io/badge/Always_Learning-5c0000?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always Learning"/>
+</p>
+
+---
+
 <p align="center">
   <i>🔥 Incendeie seu coração. Não desista daquilo que faz seus olhos brilharem.</i>
 </p>
@@ -96,7 +110,7 @@ Projeto acadêmico de uma plataforma online de serviços de guincho, envolvendo 
 <p align="center">
   <b>Isaías 60:22</b>
   <br/>
-  <i>"Quando for a hora certa, eu, o Senhor, farei acontecer."</i>
+  <i>"Quando for a hora certa, eu, o Senhor farei acontecer."</i>
 </p>
 
 <p align="center">
