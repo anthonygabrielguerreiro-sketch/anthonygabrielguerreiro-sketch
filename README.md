@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Anthony Gabriel
 
 <p align="center">
-  <img src="./chrollo-banner.png.png" width="100%" alt="Chrollo Lucilfer - Banner"/>
+  <img src="./chrollo-banner.png.png" width="100%" alt="Chrollo Lucilfer"/>
 </p>
 
 <p align="center">
@@ -11,6 +11,10 @@
 <p align="center">
   <b>🎓 Estudante de Engenharia de Software | HTML • CSS • Power BI</b>
 </p>
+
+---
+
+### 👋 Sobre mim
 
 Olá! Sou **Anthony Gabriel**, estudante de Engenharia de Software na Universidade Cidade de São Paulo (Unicid), interessado em tecnologia, desenvolvimento web e análise de dados.
 
@@ -22,11 +26,11 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
 
 ### 🌐 Conecte-se comigo
 
-<p align="left">
-  <a href="https://github.com/anthonygabrielguerreiro-sketch" target="_blank">
+<p>
+  <a href="https://github.com/anthonygabrielguerreiro-sketch">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/anthony-gabriel-pereira-127101437/" target="_blank">
+  <a href="https://www.linkedin.com/in/anthony-gabriel-pereira-127101437/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -35,63 +39,66 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
 
 ### 💻 Tecnologias e ferramentas
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
 
 ### 📚 O que estou desenvolvendo
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Desenvolvimento Web</h3>
-      <p>Estudando os fundamentos da criação de páginas e interfaces para a web.</p>
-      <ul>
-        <li>Estruturação de páginas com HTML</li>
-        <li>Estilização com CSS</li>
-        <li>Organização de elementos e layouts</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Análise e Visualização de Dados</h3>
-      <p>Explorando formas de apresentar informações de maneira visual e compreensível.</p>
-      <ul>
-        <li>Contato com Power BI</li>
-        <li>Visualização de dados em dashboards</li>
-        <li>Apresentação visual de informações</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Desenvolvimento Web | Análise e Visualização de Dados |
+|:---:|:---:|
+| HTML e CSS | Power BI |
+| Estruturação de páginas | Criação de dashboards |
+| Organização de layouts | Apresentação de informações |
+
+---
+
+### 🚀 Projetos em destaque
+
+**🏢 Grupo Êxito Imóveis**
+
+Desenvolvimento de uma página institucional para apresentar a empresa, sua história, seus diferenciais e sua identidade.
+
+- HTML e CSS
+- Organização visual de conteúdo
+- Estruturação de layouts e seções informativas
+
+**🚗 Feliguinchos**
+
+Projeto acadêmico de uma plataforma online de serviços de guincho, envolvendo análise de dados e Business Intelligence.
+
+- Indicadores e métricas
+- Desenvolvimento de dashboards no Power BI
+- Utilização de dados para apoiar a tomada de decisões
 
 ---
 
 ### 🎯 Objetivos
 
 - Aprimorar meus conhecimentos em HTML e CSS.
-- Evoluir na criação de páginas web e interfaces.
-- Aprofundar meus conhecimentos em Power BI e análise de dados.
-- Desenvolver projetos práticos para meu portfólio.
-- Aprender novas tecnologias ao longo da graduação em Engenharia de Software.
+- Desenvolver páginas web e interfaces.
+- Evoluir na área de análise de dados e Power BI.
+- Criar novos projetos para meu portfólio.
+- Aprender novas tecnologias durante minha jornada na Engenharia de Software.
 
 ---
 
-### 🎧 Beyond the Code
-
 <p align="center">
-  <img src="https://img.shields.io/badge/🎧-Music%20Lover-7D1515?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⛩️-Anime%20Enthusiast-222222?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💻-Always%20Learning-333333?style=for-the-badge"/>
+  <i>🔥 Incendeie seu coração. Não desista daquilo que faz seus olhos brilharem.</i>
 </p>
 
 <p align="center">
-  <i>Isaías 60:22.</i>
+  <b>Isaías 60:22</b>
+  <br/>
+  <i>"Quando for a hora certa, eu, o Senhor, farei acontecer."</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7D1515,50:292020,100:101010&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:5c0000,100:990000&height=100&section=footer" width="100%" alt="Rodapé decorativo"/>
 </p>
