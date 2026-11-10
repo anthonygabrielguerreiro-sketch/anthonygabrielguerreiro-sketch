@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Anthony Gabriel
 
 <p align="center">
-  <img src="./chrollo-banner.png" width="100%" alt="Chrollo Lucilfer - Banner"/>
+  <img src="./chrollo-banner.png.png" width="100%" alt="Chrollo Lucilfer - Banner"/>
 </p>
 
 <p align="center">
