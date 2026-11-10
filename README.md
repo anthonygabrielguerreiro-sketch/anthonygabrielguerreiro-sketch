@@ -89,7 +89,7 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
 </p>
 
 <p align="center">
-  <i>Always learning. Always evolving.</i>
+  <i>Isaías 60:22.</i>
 </p>
 
 <p align="center">
